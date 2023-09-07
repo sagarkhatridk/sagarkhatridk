@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **https://sagarkhatri.cloud/**
 
-- 📄 Know about my experiences in APIs [Skilled in developing and integrating live APIs to deliver real-time data and seamless user experiences.](Skilled in developing and integrating live APIs to deliver real-time data and seamless user experiences.)
+- 📄 Know about my experiences in APIs [Skilled in developing and integrating live APIs to deliver real-time data and seamless user experiences.]
 
 - ⚡ fact **I am a certified Cloud Practitioner, certified by Udemy, with a comprehensive understanding of cloud concepts and practices. My expertise extends to developing dynamic websites using Bootstrap, React.js, and JavaScript. I have also successfully built APIs using Node.js, enabling efficient data communication. In addition, I have crafted live scraping crawlers using Python, leveraging AWS Lambda to ensure their continuous operation across various endpoints. This multifaceted skill set reflects my ability to create integrated solutions that span diverse technologies and optimize performance for a range of applications.**
 
