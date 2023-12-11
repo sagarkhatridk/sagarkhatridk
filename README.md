@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [django](FoodOnline)
 
-- 👯 I’m looking to collaborate on [MERN stack](Ecommerce)
+- 👯 I’m looking to collaborate on [Django | DRF](Ecommerce)
 
 - 🤝 I’m looking for help with [django opensource collab](anytype of peoject)
 
